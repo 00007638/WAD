@@ -1,4 +1,4 @@
 # WAD
 This is a part of portolio for coursework
 
-To Be Done;
+22.02.2021 - Development plan
